@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import math
 
 
-#тестттт
+#sdfsdf
 # Решить задачу условной оптимизации!!!! Функция штрафа
 
 
